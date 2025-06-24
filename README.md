@@ -13,5 +13,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/starling92)
 [![VK](https://img.shields.io/badge/Vkontakte-001?style=for-the-badge&logo=vk)](https://vk.ru/id5201718)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-002?style=for-the-badge&logo=whatsapp)](https://wa.me/79032556857)
-[![Gmail](https://img.shields.io/badge/GMail-003?style=for-the-badge&logo=gmail)](http://irina.andrushkina@gmail.com)
-[![Mail](https://img.shields.io/badge/Mail.ru-004?style=for-the-badge&logo=mail.ru)](http://gonza25_92@mail.ru)
+[![Gmail](https://img.shields.io/badge/GMail-003?style=for-the-badge&logo=gmail)](mailto:irina.andrushkina@gmail.com)
+[![Mail](https://img.shields.io/badge/Mail.ru-004?style=for-the-badge&logo=mail.ru)](mailto:gonza25_92@mail.ru)
