@@ -3,4 +3,4 @@
 ## I'm beginner QA Engeneer
 
 ## Languages and Tools
-! [Postman](https://img.shields.io/badge/Postman-8A2BE2)
+![Postman](https://img.shields.io/badge/Postman-8A2BE2)
