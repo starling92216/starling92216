@@ -7,7 +7,9 @@
 ![SoapUI](https://img.shields.io/badge/SoapUI-001?style=for-the-badge&logo=soapui)
 ![GitHub](https://img.shields.io/badge/GitHub-002?style=for-the-badge&logo=github)
 ![MySQL](https://img.shields.io/badge/MySQL-003?style=for-the-badge&logo=mysql)
-![DevTools](https://img.shields.io/badge/DevTools-004?style=for-the-badge&logo=devtools)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-004?style=for-the-badge&logo=androidstudio)
+![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-005?style=for-the-badge&logo=VSCode)
+![DevTools](https://img.shields.io/badge/DevTools-006?style=for-the-badge&logo=devtools)
 
 ## Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram)](https://t.me/starling92)
